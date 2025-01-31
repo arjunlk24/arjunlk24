@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Raj Mathur</h1>
 <h3 align="center">A Cyber Security Enthusiast, Programmer, Graphic Editor, Gamer</h3>
 <img align="right" alt="encryption" width="400" src="https://imgs.search.brave.com/ya_gc28Y4n9fEk7ueaoc2GcXggV60YEUWl0vuIYMG6s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY3liZXIt/ZmxvYXRpbmctYnVp/bGRpbmctcGl4ZWwt/NzB2MHl2NmpmOXJ0/YmVhMy5naWY.gif"
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunlk24" alt="arjunlk24" /></a> </p>
-
+  
 - 🌱 I’m currently learning **Cyber Security Frameworks and Programming.**
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6028911541455686681](https://www.blogger.com/blog/posts/6028911541455686681)
@@ -13,6 +11,8 @@
 - 📫 How to reach me **abhayrajmathur666@gmail.com**
 
 - ⚡ Fun fact **There is nothing like 127.0.0.0**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunlk24" alt="arjunlk24" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
