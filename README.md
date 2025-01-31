@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhay Raj Mathur</h1>
 <h3 align="center">A Cyber Security Enthusiast, Programmer, Graphic Editor, Gamer</h3>
+<img align="right" alt="encryption" width="400" src="https://imgs.search.brave.com/ya_gc28Y4n9fEk7ueaoc2GcXggV60YEUWl0vuIYMG6s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY3liZXIt/ZmxvYXRpbmctYnVp/bGRpbmctcGl4ZWwt/NzB2MHl2NmpmOXJ0/YmVhMy5naWY.gif">
 
 - 🌱 I’m currently learning **Cyber Security Frameworks and Programming.**
 
